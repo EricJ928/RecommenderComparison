@@ -1,0 +1,2 @@
+The data can be downloaded from Kaggle datasets:
+https://www.kaggle.com/datasets/mrmorj/insurance-recommendation?select=Train.csv
